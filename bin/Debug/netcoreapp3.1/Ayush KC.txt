@@ -1,0 +1,10 @@
+PAYSLIP for March/2019
+================================
+Name of the Staff: Ayush KC
+Hours Worked: 2
+
+Basic Pay: 60
+Overtime: $0.00
+
+Total Pay: $60.00
+==========================================

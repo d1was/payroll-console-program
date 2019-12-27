@@ -1,0 +1,10 @@
+PAYSLIP for March/2019
+================================
+Name of the Staff: Diwas Kc
+Hours Worked: 200
+
+Basic Pay: 10000
+Allowance: $1,000.00
+
+Total Pay: $11,000.00
+==========================================

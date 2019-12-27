@@ -1,0 +1,11 @@
+C:\Users\diwas\source\repos\C Sharp Practice\Payroll Program\bin\Debug\netcoreapp3.1\Payroll Program.exe
+C:\Users\diwas\source\repos\C Sharp Practice\Payroll Program\bin\Debug\netcoreapp3.1\Payroll Program.deps.json
+C:\Users\diwas\source\repos\C Sharp Practice\Payroll Program\bin\Debug\netcoreapp3.1\Payroll Program.runtimeconfig.json
+C:\Users\diwas\source\repos\C Sharp Practice\Payroll Program\bin\Debug\netcoreapp3.1\Payroll Program.runtimeconfig.dev.json
+C:\Users\diwas\source\repos\C Sharp Practice\Payroll Program\bin\Debug\netcoreapp3.1\Payroll Program.dll
+C:\Users\diwas\source\repos\C Sharp Practice\Payroll Program\bin\Debug\netcoreapp3.1\Payroll Program.pdb
+C:\Users\diwas\source\repos\C Sharp Practice\Payroll Program\obj\Debug\netcoreapp3.1\Payroll Program.csprojAssemblyReference.cache
+C:\Users\diwas\source\repos\C Sharp Practice\Payroll Program\obj\Debug\netcoreapp3.1\Payroll Program.AssemblyInfoInputs.cache
+C:\Users\diwas\source\repos\C Sharp Practice\Payroll Program\obj\Debug\netcoreapp3.1\Payroll Program.AssemblyInfo.cs
+C:\Users\diwas\source\repos\C Sharp Practice\Payroll Program\obj\Debug\netcoreapp3.1\Payroll Program.dll
+C:\Users\diwas\source\repos\C Sharp Practice\Payroll Program\obj\Debug\netcoreapp3.1\Payroll Program.pdb

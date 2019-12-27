@@ -1,0 +1,10 @@
+PAYSLIP for March/2019
+================================
+Name of the Staff: Diwas Acharya
+Hours Worked: 10
+
+Basic Pay: 300
+Overtime: $0.00
+
+Total Pay: $300.00
+==========================================

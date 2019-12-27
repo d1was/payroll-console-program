@@ -1,0 +1,10 @@
+PAYSLIP for March/2019
+================================
+Name of the Staff: Ayush Acharya
+Hours Worked: 190
+
+Basic Pay: 9500
+Allowance: $1,000.00
+
+Total Pay: $10,500.00
+==========================================
